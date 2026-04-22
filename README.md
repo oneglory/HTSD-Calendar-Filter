@@ -31,10 +31,9 @@ There are over 20 schools. This script replaces that entire flow with two clicks
 ## Usage
 
 1. Visit the [HTSD calendar page](https://www.htsdnj.org/our-district/hamilton-township-school-district-calendar)
-2. **Scroll the school list on the left sidebar up and down once.** The site lazy-loads its checkboxes — they don't exist in the DOM until scrolled into view.
-3. Click **Step 1 — Load schools** in the floating panel
-4. Check the schools you want to see
-5. Click **Step 2 — Apply filter**
+2. Click **Step 1 — Load schools** in the floating panel
+3. Check the schools you want to see
+4. Click **Step 2 — Apply filter**
 
 The calendar will update to show only your selected schools. You can adjust your selection and click Step 2 again at any time without reloading.
 
