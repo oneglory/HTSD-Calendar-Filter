@@ -23,7 +23,7 @@ There are over 20 schools. This script replaces that entire flow with two clicks
 
 ## Installation
 
-1. Install [Tampermonkey](https://www.tampermonkey.net/) for your browser
+1. Install [Tampermonkey](https://www.tampermonkey.net/) for your browser. Remember to ["Allow Userscripts" in the Manage Extension menu](https://www.tampermonkey.net/faq.php?q=Q209#Q209)"
 2. Click the raw view of `htsd-calendar-filter-v9.user.js` in this repo or just [Click here](https://raw.githubusercontent.com/oneglory/HTSD-Calendar-Filter/main/htsd-calendar-filter-v9.user.js) to auto install if Tampermonkey is already installed on your browser.
 3. Tampermonkey will detect the userscript and prompt you to install it
 4. Click **Install**
