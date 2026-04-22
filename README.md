@@ -2,6 +2,8 @@
 
 A Tampermonkey userscript that replaces the Hamilton Township School District calendar's tedious filter UI with a clean floating panel.
 
+[Demo](https://github.com/oneglory/HTSD-Calendar-Filter/blob/main/2026-04-22_11h14_03.gif)
+
 ## The Problem
 
 The [HTSD calendar](https://www.htsdnj.org/our-district/hamilton-township-school-district-calendar) requires you to:
