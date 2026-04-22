@@ -6,12 +6,12 @@ A Tampermonkey userscript that replaces the Hamilton Township School District ca
 
 The [HTSD calendar](https://www.htsdnj.org/our-district/hamilton-township-school-district-calendar) requires you to:
 
-1. Click a school name to expand it and reveal its checkbox
-2. Uncheck the schools you don't want
-3. Repeat for every single school
+1. Click a school name to expand it and reveal its checkbox <---this is a P.I.T.A.
+2. Uncheck the schools you don't want <---this is a P.I.T.A.
+3. Repeat for every single school <---this is a P.I.T.A.
 4. Click "Update Calendar"
 
-There are over 20 schools. This script replaces that entire flow with two clicks.
+There are over 20 schools, this is terrible a terrible UX and we can do better. This script replaces that entire flow with two clicks.
 
 ## What It Does
 
